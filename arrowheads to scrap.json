@@ -1,0 +1,18 @@
+{
+    "Name": "RecycledArrowHeads",
+    "RequiredGear": ["GEAR_ArrowHead"],
+    "RequiredGearUnits": [2],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Hammer",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_ScrapMetal",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 8,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

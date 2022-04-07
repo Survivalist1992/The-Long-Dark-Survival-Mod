@@ -1,0 +1,18 @@
+{
+    "Name": "Simple Tools",
+    "RequiredGear": ["Gear_Hammer","Gear_Hook","Gear_Hacksaw"],
+    "RequiredGearUnits": [1,1,1],
+    "KeroseneLitersRequired": 0.1,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "Gear_SimpleTools",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "None",
+    "ImprovedSkill":"ToolRepair"
+}

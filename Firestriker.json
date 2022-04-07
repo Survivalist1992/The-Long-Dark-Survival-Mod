@@ -1,0 +1,18 @@
+{
+    "Name": "Firestriker",
+    "RequiredGear": ["GEAR_ScrapMetal","GEAR_Stone"],
+    "RequiredGearUnits": [2,1],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Hammer",
+    "OptionalTools": [],
+    "RequiredCraftingLocation":"Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_FireStriker",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 20,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "Firestarting",
+    "ImprovedSkill" : "Firestarting"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Arrow Head",
+    "RequiredGear": ["Gear_ScrapMetal"],
+    "RequiredGearUnits": [1],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "Gear_Hammer",
+    "OptionalTools": ["Gear_Hacksaw"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "Gear_ArrowHead",
+    "CraftedResultCount": 8,
+    "DurationMinutes": 10,
+    "CraftingAudio": "PLAY_CRAFTINGGENERIC",
+    "AppliedSkill" : "Archery",
+    "ImprovedSkill" : "Archery"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Simple Arrow",
+    "RequiredGear": ["Gear_Arrowshaft", "Gear_ArrowHead", "Gear_ScrapMetal"],
+    "RequiredGearUnits": [1,1,3],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "Gear_knife",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Arrow",
+    "CraftedResultCount": 10,
+    "DurationMinutes": 3,
+    "CraftingAudio": "PLAY_CRAFTINGGENERIC",
+    "AppliedSkill" : "Archery",
+    "ImprovedSkill" : "Archery"
+}

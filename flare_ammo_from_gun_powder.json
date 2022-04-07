@@ -1,0 +1,18 @@
+{
+    "Name": "FlareAmmoFromGunPowder",
+    "RequiredGear": [],
+    "RequiredGearUnits": [],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0.05,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_FlareGunAmmoSingle",
+    "CraftedResultCount": 10,
+    "DurationMinutes": 1,
+    "CraftingAudio": "Play_CraftingGunPowder",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

@@ -1,0 +1,18 @@
+{
+    "Name": "Scrap Revolver Round",
+    "RequiredGear": ["Gear_RevolverAmmoCasing","Gear_Bullet"],
+    "RequiredGearUnits": [1,1],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0.1,
+    "RequiredTool": "Gear_Hammer",
+    "OptionalTools": [""],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_RevolverAmmoSingle",
+    "CraftedResultCount": 10,
+    "DurationMinutes": 10,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "Gunsmithing",
+    "ImprovedSkill" : "Gunsmithing"
+}

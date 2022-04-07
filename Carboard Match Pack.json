@@ -1,0 +1,18 @@
+{
+    "Name":"Carboard Matches",
+    "RequiredGear": ["GEAR_Stone","GEAR_Tinder"],
+    "RequiredGearUnits": [10,8],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0.05,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult":"GEAR_PackMatches",
+    "CraftedResultCount": 20,
+    "DurationMinutes": 10,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill" : "Firestarting",
+    "ImprovedSkill" : "Firestarting"
+}

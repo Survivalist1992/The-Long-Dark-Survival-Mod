@@ -1,0 +1,18 @@
+{
+    "Name": "Scrap Rifle Bullet Casing",
+    "RequiredGear": ["Gear_ScrapMetal"],
+    "RequiredGearUnits": [2],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0.01,
+    "RequiredTool": "Gear_Hammer",
+    "OptionalTools": [""],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_RifleAmmoCasing",
+    "CraftedResultCount": 8,
+    "DurationMinutes": 30,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "Gunsmithing",
+    "ImprovedSkill" : "Gunsmithing"
+}

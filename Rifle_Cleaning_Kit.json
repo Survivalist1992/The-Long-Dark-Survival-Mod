@@ -1,0 +1,18 @@
+{
+    "Name": "RifleCleaningKit",
+    "RequiredGear": ["Gear_GutDried","Gear_Cloth","Gear_Hardwood","Gear_ScrapMetal"],
+    "RequiredGearUnits": [1,3,1,2],
+    "KeroseneLitersRequired": 0.2,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_RifleCleaningKit",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "ToolRepair",
+    "ImprovedSkill" : "ToolRepair"
+}

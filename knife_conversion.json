@@ -1,0 +1,18 @@
+{
+    "Name": "KnifeConversion",
+    "RequiredGear": ["GEAR_KnifeImprovised","GEAR_ScrapMetal"],
+    "RequiredGearUnits": [1,1],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Knife",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 1,
+    "CraftingAudio": "PLAY_CRAFTINGGENERIC",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

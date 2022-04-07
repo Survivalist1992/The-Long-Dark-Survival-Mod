@@ -1,0 +1,18 @@
+{
+    "Name":"Wheatstone",
+    "RequiredGear": ["GEAR_ScrapMetal","GEAR_Stone","GEAR_ReclaimedWoodB"],
+    "RequiredGearUnits": [2,8,1],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation":"Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_SharpeningStone",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 30,
+    "CraftingAudio": "PLAY_CraftingMetal",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None",
+}

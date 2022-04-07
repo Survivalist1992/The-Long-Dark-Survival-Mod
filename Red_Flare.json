@@ -1,0 +1,18 @@
+{
+    "Name": "Red_Flare",
+    "RequiredGear": [],
+    "RequiredGearUnits": [],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0.25,
+    "RequiredTool": "",
+    "OptionalTools": ["GEAR_SimpleTools","GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_FlareA",
+    "CraftedResultCount": 10,
+    "DurationMinutes": 1,
+    "CraftingAudio": "Play_CraftingGunPowder",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
